@@ -1,32 +1,42 @@
-<footer class="footer">
-
-    <div class="footer-top">
-        <div class="background-image-blur"></div>
-        <div class="footer-top-content">
-            <h3>We Develop <br> Leading University AID</h3>
-            <button class="developer">Hire Us</button>
-        </div>
-    </div>
-
-    <div class="footer-bottom">
-        <div class="container">
-            <div class="bottom-content">
-                <p> @2023 All rights reserve ! Develop by Us</p>
+<!-- Footer for Dev -->
+<footer id='dev-footer' class='footer-dev'>
+    <div class='container'>
+        <div class='footer-container'>
+            <div class='footer-wrapper'>
+                <div class='footer-card'>
+                    <h1> Want to <span> work? </span></h1>
+                </div>
+                <div class='footer-card'>
+                    <p>
+                        If you need a modern and powerful website for your business,
+                        startup or personally, I am available for work.
+                        You can email me directly at <span> dev.ruman@proton.me </span>.
+                    </p>
+                </div>
+            </div>
+            <div class='footer-copy-write'>
+                <div class='footer-connect'>
+                    <div class='connect-card'>
+                        <p>
+                            © All right reserved – Ruman Ahmed
+                        </p>
+                    </div>
+                    <div class='connect-card'>
+                        <ul>
+                            <li><a href='#'> <i class='fa-brands fa-square-facebook'></i> </a></li>
+                            <li><a href='#'> <i class='fa-brands fa-twitter'></i> </a></li>
+                            <li><a href='#'> <i class='fa-brands fa-linkedin-in'></i> </a></li>
+                            <li><a href='#'> <i class='fa-brands fa-instagram'></i> </a></li>
+                            <li><a href='#'> <i class='fa-brands fa-youtube'></i> </a></li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
 </footer>
 
-
-
-<!-- External JS Files -->
-<script src="assets/js/header_script.js"></script>
-
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<!-- Link JS for Dev -->
+<script src='assets/js/dev.js'></script>
 </body>
 </html>
